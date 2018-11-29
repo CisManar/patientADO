@@ -1,0 +1,20 @@
+.input-group
+{
+    margin: 2% 0;
+    width: 100%;
+}
+.patient-form input[type=text],
+.patient-form input[type=email]
+{
+    width: 50%;
+}
+.patient-form .pstatus,
+.patient-form .plastcheck
+{
+    width: 30%;
+}
+.input-name:not(.checkname)
+{
+    width: 20%;
+    margin-right: 5%;
+}
